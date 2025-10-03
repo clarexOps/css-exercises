@@ -7,12 +7,12 @@
 */
 
 .odd {
-    background-color: pink;
+    background-color: #ffc2cc;
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
 }
 
 #second {
-    color: blue;
+    color: hsl(240, 100%, 50%);
     font-size: 36px;
 }
 
@@ -21,7 +21,7 @@
 }
 
 #fourth {
-    background-color: lightgreen; 
+    background-color: rgb(145, 238, 145); 
     font-size: 24px;
-    font-weight: boldx;
+    font-weight: bold;
 }
